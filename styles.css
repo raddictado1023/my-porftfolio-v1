@@ -419,6 +419,9 @@ header{
 .about-text p{
     margin: 0.5rem 0 1rem;
     color: var(--navy-color);
+    text-align: justify;
+   
+   
 }
 .footer{
     max-width: 80%;
